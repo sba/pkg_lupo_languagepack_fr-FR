@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="file" method="upgrade">
+	<author>Stefan Bauer</author>
+	<creationDate>February 2015</creationDate>
+	<copyright>Copyright (C) databauer / Stefan Bauer</copyright>
+	<license>License GNU General Public License version 2 or later</license>
+	<authorEmail>stefan@databauer.ch</authorEmail>
+	<authorUrl>http://www.ludothekprogramm.ch</authorUrl>
+	<version>2.0.0</version>
+	<description>This translation is for LUPO package fr_FR</description>
+	
+	<languages folder="site" target="administrator/language/fr-FR">
+		<language tag="fr-FR">fr-FR.com_lupo.ini</language>
+		<language tag="fr-FR">fr-FR.mod_lupo_categories.ini</language>
+		<language tag="fr-FR">fr-FR.mod_lupo_categories.sys.ini</language>
+	</languages>	
+
+	<languages folder="admin" target="language/fr-FR">
+		<language tag="fr-FR">fr-FR.com_lupo.ini</language>
+		<language tag="fr-FR">fr-FR.com_lupo.sys.ini</language>
+		<language tag="fr-FR">fr-FR.plg_search_lupo.ini</language>
+		<language tag="fr-FR">fr-FR.plg_search_lupo.sys.ini</language>
+	</languages>	
+</extension>
