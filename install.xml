@@ -25,7 +25,7 @@
 			<file>fr-FR.com_lupo.sys.ini</file>
 			<file>fr-FR.plg_search_lupo.ini</file>
 			<file>fr-FR.plg_search_lupo.sys.ini</file>
-			<file>fr-FR.fr-FR.mod_lupo_quickicon.ini</file>
+			<file>fr-FR.mod_lupo_quickicon.ini</file>
 		</files>
 	</fileset>
 </extension>
