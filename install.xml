@@ -14,6 +14,10 @@
 			<file>fr-FR.com_lupo.ini</file>
 			<file>fr-FR.mod_lupo_categories.ini</file>
 			<file>fr-FR.mod_lupo_categories.sys.ini</file>
+			<file>fr-FR.mod_lupo_login.ini</file>
+			<file>fr-FR.mod_lupo_login.sys.ini</file>
+			<file>fr-FR.mod_lupo_loginlink.ini</file>
+			<file>fr-FR.mod_lupo_loginlink.sys.ini</file>
 		</files>
 
 		<files folder="admin" target="administrator/language/fr-FR">
@@ -21,6 +25,7 @@
 			<file>fr-FR.com_lupo.sys.ini</file>
 			<file>fr-FR.plg_search_lupo.ini</file>
 			<file>fr-FR.plg_search_lupo.sys.ini</file>
+			<file>fr-FR.fr-FR.mod_lupo_quickicon.ini</file>
 		</files>
 	</fileset>
 </extension>
